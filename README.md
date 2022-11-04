@@ -16,13 +16,13 @@ Sou Rafael Corrêa, Programador Front-end ,atualmente estou estudando e aprenden
  
  Connect with me:
  <p>
- <a https://www.instagram.com/rafabode13/>
+ <a href="https://www.instagram.com/rafabode13">
  <img alt="logo-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
  </p>
  
  <p>
- <a https://www.linkedin.com/in/rafael-corr%C3%AAa-monteiro-3a3523250/>
+ <a href="https://www.linkedin.com/in/rafael-corr%C3%AAa-monteiro-3a3523250">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin">
  </a>
  </p>
