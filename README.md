@@ -1,16 +1,46 @@
 ### Hi there 👋
 
-<!--
-**Devrafaelcorrea/Devrafaelcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Rafael Corrêa, Programador Front-end ,atualmente estou estudando e aprendendo criar projetos com as tecnologias:
 
-Here are some ideas to get you started:
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-CSS">
+
+ E começando o aprendizado com :
+ 
+ - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js">
+ 
+ - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-React">
+ <br>
+ 
+ 
+ Connect with me:
+ <p>
+ <a https://www.instagram.com/rafabode13/>
+ <img alt="logo-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </a>
+ </p>
+ 
+ <p>
+ <a https://www.linkedin.com/in/rafael-corr%C3%AAa-monteiro-3a3523250/>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin">
+ </a>
+ </p>
+ 
+
+ 
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Devrafaelcorrea&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Devrafaelcorrea&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Devrafaelcorrea&show_icons=true" />
+</picture>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devrafaelcorrea)](https://github.com/anuraghazra/github-readme-stats)
